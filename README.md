@@ -1,5 +1,6 @@
 # Snake Game-Themed AI Case Study: Depth-Limited Search for Food Collection
-
+## Output:
+https://github.com/user-attachments/assets/2b79659d-80f8-4bcc-bff0-c569390717d7
 ## Question
 ### How can Depth-Limited Search (DLS) be applied in the Snake Game to efficiently collect food within a limited number of moves while avoiding collisions?
 
